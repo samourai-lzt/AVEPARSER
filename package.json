@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "fast-glob": "^3.2.7",
+    "lodash": "^4.17.21",
+    "request-promise": "^4.2.6"
+  }
+}
